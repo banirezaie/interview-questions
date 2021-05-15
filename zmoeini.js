@@ -25,3 +25,11 @@ console.log(mul(2)(3)(4)(5)(6));
 //3- What are the benefits of using spread syntax and how is it different from rest syntax?
 
 //4- render a page contain a list of numbers in browser
+
+
+// 5- For which value of x the results of the following statements are not the same?
+
+if (x <= 100) {
+}
+if (!(x > 100)) {
+}
